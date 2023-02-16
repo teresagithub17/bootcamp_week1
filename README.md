@@ -13,6 +13,6 @@ To modify the code and meet the user criteria.
 
 ## Output
 
-- [Link]() to deployed application.
-- [Github]() repository.
+- [Link](https://teresagithub17.github.io/bootcamp_week1/) to deployed application.
+- [Github](https://github.com/teresagithub17/bootcamp_week1/) repository.
 
