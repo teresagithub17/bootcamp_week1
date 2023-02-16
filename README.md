@@ -15,4 +15,8 @@ To modify the code and meet the user criteria.
 
 - [Link](https://teresagithub17.github.io/bootcamp_week1/) to deployed application.
 - [Github](https://github.com/teresagithub17/bootcamp_week1/) repository.
+- Screenshots
+     - Published [page](https://github.com/teresagithub17/bootcamp_week1/blob/main/assets/images/published_url.png).
+     - Published [Github Repository](https://github.com/teresagithub17/bootcamp_week1/blob/main/assets/images/github_repository_week1.png).
+
 
